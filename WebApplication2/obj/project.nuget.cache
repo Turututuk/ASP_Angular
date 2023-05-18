@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Kun36sUJdCO+ws9TfiLkjpd5tL0ohzlngJyZijx+dP+2Ahznxie9k8bFVC/SvqNo+Jk2a0uhW+dkXE4jURo0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Konstantin\\Desktop\\UIRS\\asp\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.16\\microsoft.aspnetcore.spaservices.extensions.6.0.16.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\microsoft.typescript.msbuild\\5.0.4\\microsoft.typescript.msbuild.5.0.4.nupkg.sha512",
+    "C:\\Users\\Konstantin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
